@@ -1,5 +1,5 @@
-# nodejs
-Repositório para projetos usando node.JS
+# API de postagens feita com Node.js e MongoDB
+Repositório para projetos de API usando Node.js
 
 Neste repositório há uma aplicação feita em node.js junto com MongoDB que cria postagens, deleta e altera.
 
